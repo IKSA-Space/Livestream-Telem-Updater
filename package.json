@@ -1,0 +1,16 @@
+{
+  "name": "tele",
+  "version": "1.0.0",
+  "description": "IKSA Tele",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "krpc-node": "^4.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
